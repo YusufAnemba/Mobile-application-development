@@ -1,0 +1,32 @@
+[
+  {
+    "regno": "BIT001",
+    "name": "Mary Wanjiku",
+    "course": "BIT",
+    "year": "3"
+  },
+  {
+    "regno": "BCS002",
+    "name": "Alex Otieno",
+    "course": "Computer Science",
+    "year": "2"
+  },
+  {
+    "regno": "BEE003",
+    "name": "Jane Muthoni",
+    "course": "Electrical Engineering",
+    "year": "4"
+  },
+  {
+    "regno": "BCT004",
+    "name": "John Kamau",
+    "course": "Information Technology",
+    "year": "1"
+  },
+  {
+    "regno": "BIT005",
+    "name": "Sarah Njeri",
+    "course": "BIT",
+    "year": "2"
+  }
+]
